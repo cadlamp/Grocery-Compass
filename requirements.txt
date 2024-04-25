@@ -1,0 +1,4 @@
+pytest
+python-dotenv
+selenium==4.14.0 
+webdriver-manager

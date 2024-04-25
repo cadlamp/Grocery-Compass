@@ -1,0 +1,14 @@
+{
+  "name": "grocerycompass",
+  "version": "1.0.0",
+  "description": "![Static Badge](https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=white&link=https%3A%2F%2Freact.dev)",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
