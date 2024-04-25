@@ -2,9 +2,9 @@
 ![Static Badge](https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=white&link=https%3A%2F%2Freact.dev)
 
 ## About
-Grocery Compass is a mobile application that helps you save money and time on your grocery trips. Based on your list of grocery items, Grocery Compass considers location, item price, and availability to print out a list of the cheapest items for you to pick from.
+Grocery Compass is a mobile application that helps you save money and time on your grocery trips. Based on your list of grocery items, Grocery Compass considers location, item price, and availability to print out a list of the cheapest items for you to pick from. Our goal is to help grocery shoppers save money and time.
 
-Our goal is to help grocery shoppers save money and time.
+This project was created in my CSE 403: Software Engineering class in a group of six, in a seven-week period. The assignment was to create any type of application.
 
 ## Features
 - Ability to gather ingredients and retrieve the price and locations of each item
